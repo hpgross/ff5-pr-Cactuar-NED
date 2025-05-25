@@ -1,0 +1,12 @@
+{
+  "keys": [
+    "MN_FF5_158_C00",
+    "MN_FF5_158_E01",
+    "MN_FF5_158_E02"
+  ],
+  "values": [
+    "Assets/GameAssets/Serial/Res/Battle/Monster/MN_FF5_158/MN_FF5_158_C00",
+    "Assets/GameAssets/Serial/Res/Battle/Monster/MN_FF5_158/MN_FF5_158_E01",
+    "Assets/GameAssets/Serial/Res/Battle/Monster/MN_FF5_158/MN_FF5_158_E02"
+  ]
+}
